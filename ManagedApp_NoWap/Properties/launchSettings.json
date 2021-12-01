@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ManagedApp_NoWap (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ManagedApp_NoWap (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
